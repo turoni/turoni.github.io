@@ -1,1 +1,1 @@
-# turoni.github.io
+This page is a work in progress to offer a tutorial on mapgen in factorio.
